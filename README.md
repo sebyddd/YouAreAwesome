@@ -1,10 +1,11 @@
-You Are Awesome
+![YouAreAwesome](https://dl.dropboxusercontent.com/s/9ztp23i4xqtiakb/yas.png)
+
+You really are!
 =============
 
-Thank you for checking this repo!
+If you're asking how this got so popular I invite you to this article: https://medium.com/@sebyddd/9f132ab7474f
 
-
-**I just want remind you that you're an amazing person and wish you all the best!**
+**Also, I want remind you that you're an amazing person and wish you all the best!**
 
 
 
